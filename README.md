@@ -20,22 +20,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# AVATAR FAKE NATTY;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O PROJETO É CRIAR UMA AVATAR PARA UM PODCAST
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CHAT GPT
+ELEVEN LABS
+CAPUT
+D-ID
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+FIZ UM ROTEIRO COM AJUDA DO CHAT GPT,
+DEPOIS GEREI ESSE ROTEIRO EM VOZ NO ELEVEN LABS ,
+ FIZ UMA EQUALIZAÇÃO NO CAPUT ,
+ POR FIM CRIEI UM AVATAR NO D-ID COM A VOZ GERADO PELO CAPUT.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O RESULTADO ME  SURPREENDEU
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+FOI MUITO BOM PARTICIPAR DESSE ESTUDO,
+MUITO ENRIQUECEDOR 
 ```
 
 ### Exemplos e Insigths
